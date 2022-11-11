@@ -1,0 +1,23 @@
+html{
+    background-color: black;
+    color: aliceblue;
+}
+
+span{
+    color: yellow;
+    
+}
+
+p{
+   padding: 15px; 
+ background-color:green;
+ 
+}
+
+h1{
+    display: block;
+    
+    padding: 20px;
+    border: 20px solid;
+    border-color: blue yellow beige green;
+}
